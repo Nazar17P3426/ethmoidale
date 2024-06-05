@@ -1,2 +1,2 @@
-# ethmoidale_remade
-malware
+# ethmoidale
+C++ short GDI trojan by red-wipet
